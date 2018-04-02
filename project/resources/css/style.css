@@ -84,7 +84,7 @@ header nav {
 /* Mission Section*/
 
 .mission-container {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-mission-background.jpg");
+  background-image: url("../images/img-mission-background.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -146,7 +146,7 @@ header nav {
 }
 
 .tea #example1 {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-berryblitz.jpg");
+  background-image: url("../images/img-berryblitz.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -159,7 +159,7 @@ header nav {
 }
 
 .tea #example2 {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-spiced-rum.jpg");
+  background-image: url("../images/img-spiced-rum.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -171,7 +171,7 @@ header nav {
 }
 
 .tea #example3 {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-donut.jpg");
+  background-image: url("../images/img-donut.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -183,7 +183,7 @@ header nav {
 }
 
 .tea #example4 {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-myrtle-ave.jpg");
+  background-image: url("../images/img-myrtle-ave.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -195,7 +195,7 @@ header nav {
 }
 
 .tea #example5 {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-bedford-bizarre.jpg");
+  background-image: url("../images/img-bedford-bizarre.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -227,7 +227,7 @@ header nav {
 }
 
 .location-container {
-  background-image: url("/Users/aaronwfrisch/Documents/UX/CodeSchool/Codecademy/ProIntensive/Projects/Tea Cozy/project/resources/images/img-locations-background.jpg");
+  background-image: url("../images/img-locations-background.jpg");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
